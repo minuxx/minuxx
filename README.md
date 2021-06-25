@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/> 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minuxx&layout=compact&theme=dracula)](https://github.com/minux8905)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minuxx&layout=compact&theme=dracula)](https://github.com/minuxx)
