@@ -1,5 +1,5 @@
 ### Hi there 👋
-**I'm ✨Front-End Developer**
+**I'm ✨Android Developer**
 
  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/minuxx/Who-Am-I-5709f5176a1748239b1480c71c6e5c39)](https://www.notion.so/minuxx/Who-Am-I-5709f5176a1748239b1480c71c6e5c39) 
 [![Gmail Badge](https://img.shields.io/badge/minux8905@gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minux8905@mgail.com)](https://www.notion.so/minuxx/Who-Am-I-5709f5176a1748239b1480c71c6e5c39)
